@@ -10,6 +10,8 @@ created: 2019-09-24
 
 ## Simple Summary
 
+This SIP is a formal proposal for the smoothening component of [Draft SIP 36: SNX Inflationary Rewards Schedule](https://github.com/Synthetixio/SIPs/issues/36) drafted by [@deltatigernz](https://github.com/deltatigernz).
+
 This SIP gradually decreases SNX inflation by 1.4% per week starting on November 15th, 2019. In accordance with this SIP, on June 22nd, 2022 inflation will 
 cease being determined by this schedule and moved to a fixed volume inflation model (100K SNX per week), which is being a written up in a separate SIP.
 
